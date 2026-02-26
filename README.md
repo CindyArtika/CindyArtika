@@ -7,9 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CindyArtika/CindyArtika/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CindyArtika/CindyArtika/output/pacman-contribution-graph.svg">
 </picture>
-<img src="https://raw.githubusercontent.com/CindyArtika/CindyArtika/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 ###
-
 <img src="https://raw.githubusercontent.com/CindyArtika/CindyArtika/output/snake.svg" alt="Snake animation" />
 
 ###
