@@ -1,4 +1,4 @@
-## Hi there, I'm Cindy Artika 👋
+##  Welcome to My GitHub Profile 👋
 
 ### 💫 About Me
 I am a **beginner programmer** and an undergraduate student at  
