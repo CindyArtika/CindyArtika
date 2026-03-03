@@ -9,12 +9,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### 💫 About Me
---
-I am a **Beginner Programmer** and an undergraduate student at  
+
+I am an undergraduate student at  
 **University of North Sumatra (USU)** majoring in **Information Technology**.
 
-I am passionate about web development and continuously improving  
-my skills in programming and technology 🚀
+I am passionate about UI/UX Design, focusing on creating intuitive, user-centered, and visually engaging digital experiences.  
+I enjoy turning ideas into meaningful interface designs while continuously improving my creative and technical skills 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=auto&section=footer"/>
 
