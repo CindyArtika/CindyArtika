@@ -36,7 +36,7 @@ my skills in programming and technology 🚀
 
 ### 👩‍💻 Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript" />
 </p>
 
 ### 🌐 Frontend
@@ -51,8 +51,10 @@ my skills in programming and technology 🚀
 
 ---
 ## 📊 GitHub Stats
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CindyArtika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyArtika&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 <p align="center">
