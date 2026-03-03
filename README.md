@@ -2,14 +2,21 @@
 
 ![Banner](img/github-header-banner.png)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="150"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ### 💫 About Me
+--
 I am a **Beginner Programmer** and an undergraduate student at  
 **University of North Sumatra (USU)** majoring in **Information Technology**.
 
 I am passionate about web development and continuously improving  
 my skills in programming and technology 🚀
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=auto&section=footer"/>
 
 ### 🌐 Connect With Me
 
@@ -20,24 +27,32 @@ my skills in programming and technology 🚀
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-#### 👩‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 👩‍💻 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,php" />
+</p>
 
-#### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-#### ⚙️ Framework
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-#### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### ⚙️ Framework & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,figma" />
+</p>
 
 ---
+## 📊 GitHub Stats
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CindyArtika&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -58,6 +73,9 @@ my skills in programming and technology 🚀
 </picture>
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ### 🚀 Currently
 - 🔭 Currently studying at Fasilkom TI USU  
